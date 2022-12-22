@@ -21,6 +21,9 @@ This is a sample hotel page I created written with HTML only in the scope of HTM
 ### Images
 
 - [Lorem Picsum](https://picsum.photos/) used for images in the pages.
+
+### Content
+
 - The informational text about Woodstock, Vermont taken from [Wikipedia](https://en.wikipedia.org/wiki/Woodstock,_Vermont)
 
 ## License
